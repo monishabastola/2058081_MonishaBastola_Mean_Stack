@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(148, 240, 240);
+}
+
+h1 {
+    background-color: violet;
+}
+
+.headings {
+    border: 13px ridge rgb(50, 12, 100);
+    background-color: rgb(185, 0, 255);
+    padding: .7rem;
+}
+
+#menu {
+    display: flex;
+    justify-content:space-around;
+    list-style-type:none;
+}
+
+.main {
+    border: 13px ridge rgb(142, 210, 255);
+    background-color: rgb(252, 232, 147);
+    padding: .7rem;
+}
+
+.footer {
+    border: 13px ridge rgb(199, 13, 174);
+}
