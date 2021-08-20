@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "password": "12345",
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "bijay",
+      "password": "12345",
+      "email": "bijay@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "ababjb",
+      "password": "djbsafkb",
+      "email": "abc@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "binibs",
+      "password": "jhdfg",
+      "email": "bb@gmail.com",
+      "id": 3
+    }
+  ]
+}
